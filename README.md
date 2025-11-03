@@ -37,7 +37,7 @@ You are welcome to work on this solo if you have a passion project you really wa
 
 We are using an Excel spreadsheet to get organized. Specify your group members. We are targeting groups of four (4) or less; students may belong to only one group. Here is the spreadsheet link:
 
-[Dream Design Groups](https://lmu0-my.sharepoint.com/:x:/g/personal/allen_vartanian_lmu_edu/EWGbjZV6tBRNoRJxmfNZyEYBc3-49Fv4t9hM8_egnm-ZXA?e=o7gesa)
+[Dream Design Groups](https://lmu0-my.sharepoint.com/:x:/g/personal/allen_vartanian_lmu_edu/ER-ZR82Q0dZHgnbTxeo6rqYBPuAGbsgpPjMd_4DSY4iiKw)
 
 It is private, shared only with you through your student email.
 
