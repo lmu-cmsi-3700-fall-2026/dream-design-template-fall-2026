@@ -1,4 +1,4 @@
-**CMSI 3700** Interaction Design, Fall 2024
+**CMSI 3700** Interaction Design, Fall 2025
 
 # Dream Design
 
@@ -7,18 +7,15 @@ This assignment aims to give you some firsthand experience with the design think
 ## Background Reading
 
 Refer to our previous lectures for information on design thinking, principles, and further resources.
-- [Design Thinking Part I](https://avartanii.notion.site/3-Design-Thinking-Part-I-84e0f03f624a49329ade432d5335585f)
-- [Design Thinking Part II](https://avartanii.notion.site/4-Design-Thinking-Part-II-6752db9ecc0540fa8159f2b53b91d010)
-- [Design Thinking Part III](https://avartanii.notion.site/5-Design-Thinking-Part-III-dd6511637e3a41199536a9bb8daabc04)
-- [Principles of Design Part I](https://avartanii.notion.site/6-Principles-of-Design-Part-I-0da65b3ee7d14fd7a9c71566bdae98b8)
-- [Principles of Design Part II](https://avartanii.notion.site/7-Principles-of-Design-Part-II-10aa726f08d643e6b0d518aadacfb8ea)
-- [Usability Evaluation Part I](https://avartanii.notion.site/10-Usability-Evaluation-Part-I-3c93624bcef6450c91e8c80b1d606f9d)
-- [Usability Evaluation Part II](https://avartanii.notion.site/11-Usability-Evaluation-Part-II-9dabe3e904fe4f0b84b09077ac13c016)
-- [Affordances](https://avartanii.notion.site/14-Affordances-62c455e3b11740be9a13050285fa8176)
-- [Design Requirements](https://avartanii.notion.site/16-Design-Requirements-e9673c203c5641b8a74aab11b65d4398)
-- [Figma Guest Speaker](https://avartanii.notion.site/17-Figma-Guest-Speaker-c8e1e88f2b59473d8864435b8492012e)
-
-
+- [Design Thinking Part I](https://www.notion.so/3-Design-Thinking-Part-I-25ad11b8a9a281948837eda8964c1260?pvs=21)
+- [Design Thinking Part II](https://www.notion.so/4-Design-Thinking-Part-II-25ad11b8a9a281ff9d74f8a54dfca07d?pvs=21)
+- [Design Thinking Part III](https://www.notion.so/5-Design-Thinking-Part-III-25ad11b8a9a2811faf8ffe39daeb5b7e?pvs=21)
+- [Principles of Design Part I](https://www.notion.so/6-Principles-of-Design-Part-I-25ad11b8a9a2819fa2bbdc91655491a6?pvs=21)
+- [Principles of Design Part II](https://www.notion.so/7-Principles-of-Design-Part-II-25ad11b8a9a281b29eabc6b8d577804f?pvs=21)
+- [Usability Evaluation Part I](https://www.notion.so/10-Usability-Evaluation-Part-I-25ad11b8a9a281a6bbc5f9ae26501827?pvs=21)
+- [Usability Evaluation Part II](https://www.notion.so/11-Usability-Evaluation-Part-II-25ad11b8a9a2813191e9f0a87c330b56?pvs=21)
+- [Affordances](https://avartanii.notion.site/14-Affordances-25ad11b8a9a2815190a2e234d1ff0bee)
+- [Design Requirements](https://avartanii.notion.site/16-Design-Requirements-25ad11b8a9a28117bf79c733bd9b72d9?pvs=143)
 
 ## For Submission
 
@@ -34,7 +31,7 @@ Given the nature of this project with its various stages, we will be approaching
 
 ### Organize Groups
 
-*Due Friday 11/08/2024 @ 11:59pm (5 points)*
+*Due Friday 11/07/2025 @ 11:59pm (5 points)*
 
 You are welcome to work on this solo if you have a passion project you really want to get out there, but you are also allowed to collaborate and work in groups.
 
@@ -48,7 +45,7 @@ It is private, shared only with you through your student email.
 
 ### Create a Figma student account
 
-*Due Friday 11/08/2024 @ 11:59pm (5 points)*
+*Due Friday 11/07/2025 @ 11:59pm (5 points)*
 
 Using [this site](https://www.figma.com/education/), create a student account on Figma. This will enable you to use Figma to its fullest potential for free. You will be creating your designs on Figma so do this step as soon as possible to start learning how to use the software and explore what it has to offer.
 
@@ -60,7 +57,7 @@ Once your groups are finalized and your accounts created, I will send you an inv
 
 ### Create a design document
 
-*Due Friday 11/22/2024 @ 11:59pm (20 points)*
+*Due Friday 11/21/2025 @ 11:59pm (20 points)*
 
 Before putting the metaphorical pen to the metaphorical paper, talk through what it is you are trying to achieve. Following the advice on [this page](https://www.freecodecamp.org/news/how-to-write-a-good-software-design-document-66fcf019569c/), create a design document detailing what you are trying to accomplish and produce. A design document template has been provided for you in the repository. The template is a little different from what the site provided describes (i.e. it's a trimmed down version), so when in doubt, follow the template.
 
@@ -80,11 +77,11 @@ The design document is **not** where you flourish your creative writing. Analogi
 
 **For submission:** Commit your design document to your repository (only one per project/repository).
 
-Once commited, I will read through your document and provide feedback or approval by Monday 11/25/2024 @ 11:59pm.
+Once commited, I will read through your document and provide feedback or approval by Monday 11/24/2025 @ 11:59pm.
 
 ### Create your design
 
-*Due Friday 12/06/2024 @ 11:59pm (35 points)*
+*Due Sunday 12/07/2025 @ 11:59pm (35 points)*
 
 With your teams creative space assigned to you on Figma, you will then start creating your design. While I encourage you to complete your design document first so that your group is well-informed and agreed upon for what it is you are trying to achieve, I cannot stop you from starting your design creation synchronously with your document (nor will you be marked down for doing so).
 
@@ -94,7 +91,7 @@ Figma is an incredibly powerful tool, so make sure you give yourself time to fir
 
 ### Write your report
 
-*Due Friday 12/06/2024 @ 11:59pm (35 points)*
+*Due Sunday 12/07/2025 @ 11:59pm (35 points)*
 
 This is where you get to flex your writing skills. Here is where you should let the passion for your design come forward and explain the thoughts and emotions you poured into your process to produce your design. Your report should include the following parts:
 
@@ -167,7 +164,7 @@ While not specifically called out in the table above like the previous project, 
 
 ### Opportunity for more points
 
-*Due Friday 12/06/2024 @ 11:59pm*
+*Due Sunday 12/07/2025 @ 11:59pm*
 
 A twist ending!
 
