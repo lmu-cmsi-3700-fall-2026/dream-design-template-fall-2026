@@ -78,7 +78,7 @@ The design document is **not** where you flourish your creative writing. Analogi
 
 **For submission:** Commit your design document to your repository (only one per project/repository).
 
-Once commited, I will read through your document and provide feedback or approval by Monday 11/20/2026 @ 11:59pm.
+Once commited, I will read through your document and provide feedback or approval by Monday 11/30/2026 @ 11:59pm.
 
 ### Create your design
 
